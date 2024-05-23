@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "663c127cc4ede93e53629e01",
+      "image": "https://example.com/image1.jpg",
+      "title": "Product 1",
+      "price": "$19.99",
+      "rating": 4.5,
+      "button": "Add to Cart"
+    },
+    {
+      "_id": "663c127cc4ede93e53629e02",
+      "image": "https://example.com/image2.jpg",
+      "title": "Product 2",
+      "price": "$24.99",
+      "rating": 3.8,
+      "button": "Buy Now"
+    },
+    {
+      "_id": "663c127cc4ede93e53629e03",
+      "image": "https://example.com/image3.jpg",
+      "title": "Product 3",
+      "price": "$14.99",
+      "rating": 4.2,
+      "button": "Add to Wishlist"
+    },
+    {
+      "_id": "663c127cc4ede93e53629e04",
+      "image": "https://example.com/image4.jpg",
+      "title": "Product 4",
+      "price": "$29.99",
+      "rating": 4,
+      "button": "View Details"
+    },
+    {
+      "_id": "663c127cc4ede93e53629e05",
+      "image": "https://example.com/image5.jpg",
+      "title": "Product 5",
+      "price": "$9.99",
+      "rating": 4.8,
+      "button": "Buy Now"
+    },
+    {
+      "_id": "663c127cc4ede93e53629e06",
+      "image": "https://example.com/image6.jpg",
+      "title": "Product 6",
+      "price": "$39.99",
+      "rating": 4.6,
+      "button": "Add to Cart"
+    }
+  ]
