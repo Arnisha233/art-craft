@@ -19,7 +19,7 @@ const CraftItems = ({ cards }) => {
     return (
         <div>
            <div>
-           <h1 className='text-center text-3xl'></h1>
+           <h1 className='text-center text-3xl'>Crafting Your Way to Beauty and Utility</h1>
         <p className='text-center w-1/3 mx-auto mt-4'>Craft Items" offers a delightful array of handmade creations, from intricate jewelry to cozy knitted goods and everything in between. Unleash your creativity and explore a world of unique</p>
            </div>
           <div className="grid lg:grid-cols-3 grid-cols-1 gap-6">
