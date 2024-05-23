@@ -66,7 +66,7 @@ const MyArtCraftList = () => {
                         {/* <Link to={`/craft/${_id}`} className="btn btn-secondary">View Details</Link> */}
                         <div className="flex justify-between">
                         <Link to={`/updateCraft/${craft._id}`} className="btn bg-[#B1BCBA]">Update</Link>
-                        <button onClick={ () => handleDelete(craft._id) } className="btn bg-[#B1BCBA]"></button>
+                        <button onClick={ () => handleDelete(craft._id) } className="btn bg-[#B1BCBA]">Delete</button>
                         </div>
                     </div>
                 </div>
